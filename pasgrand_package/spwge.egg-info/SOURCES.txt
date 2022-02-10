@@ -1,0 +1,7 @@
+LICENSE.txt
+setup.py
+spwge/__init__.py
+spwge.egg-info/PKG-INFO
+spwge.egg-info/SOURCES.txt
+spwge.egg-info/dependency_links.txt
+spwge.egg-info/top_level.txt
